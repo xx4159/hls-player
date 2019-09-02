@@ -1,0 +1,23 @@
+{
+  "name": "hls-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xx4159/hls-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xx4159/hls-player/issues"
+  },
+  "homepage": "https://github.com/xx4159/hls-player#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
